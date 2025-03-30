@@ -13,7 +13,10 @@ Proyecto de chat básico con HTML CSS JavaScript que se conecta a una IA mediant
 - En este ejemplo se usó la IA Meta LLAma.
 
 ## 📂 Instalación y uso
-
+   **Ver el proyecto funcionando**:
+    ```bash
+    https://clippy-ia-chat.netlify.app/
+    
   **Clonar el repositorio**:
    ```bash
    git clone https://github.com/juampere/clippy-ia-chat.git
